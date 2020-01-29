@@ -17,6 +17,7 @@ The process of learning begins with data, such as, direct experience, or instruc
 This repository is about different Machine Learning algorithm approaches as per the industry practices.
 
 # Table of Contents
+- Exploratory Data Analysis
 - Spam Detection Unsing Various ML Algorithms
 - Gender Voice Recognition
 - Bank Loan Processing
@@ -26,5 +27,4 @@ This repository is about different Machine Learning algorithm approaches as per 
 - Avocado Type Prediction
 - Credit Card User Segmentation
 - Credit Card Fraud detection using various ML Algorithms
-- HR Attrition
-- 
+- HR Attrition Analysis
