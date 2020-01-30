@@ -33,26 +33,16 @@ This repository is about different Machine Learning algorithm approaches as per 
 
 
 
-| Exploratory Data Analysis  | [![EDA](images/EDA.png "EDA")](images/EDA.png "EDA")  |
+| Exploratory Data Analysis  | [![EDA](https://raw.githubusercontent.com/aniacharya/MachineLearning/master/images/EDA.png?token=AI3BUGLFFD7ZCGSYOXUUEUC6GJRFY "EDA")](https://raw.githubusercontent.com/aniacharya/MachineLearning/master/images/EDA.png?token=AI3BUGLFFD7ZCGSYOXUUEUC6GJRFY "EDA")  |
 | :------------: | :------------: |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-
+| [![Spam](https://raw.githubusercontent.com/aniacharya/MachineLearning/master/images/Spam.jpg?token=AI3BUGOCC6CQKKTUVTRO3FC6GJRS6 "Spam")](https://raw.githubusercontent.com/aniacharya/MachineLearning/master/images/Spam.jpg?token=AI3BUGOCC6CQKKTUVTRO3FC6GJRS6 "Spam")  | Spam Detection  |
+|Gender Voice Recognition   |[![Gender](https://raw.githubusercontent.com/aniacharya/MachineLearning/master/images/Gender%20Voice%20Recog.jpg?token=AI3BUGO7HAEBOJVYQMW2PAK6GJRVI "Gender")](https://raw.githubusercontent.com/aniacharya/MachineLearning/master/images/Gender%20Voice%20Recog.jpg?token=AI3BUGO7HAEBOJVYQMW2PAK6GJRVI "Gender")   |
+| [![bank](https://raw.githubusercontent.com/aniacharya/MachineLearning/master/images/Bank%20Loan.jpg?token=AI3BUGKRYIEHTQXDHE7CLES6GJRXW "bank")](https://raw.githubusercontent.com/aniacharya/MachineLearning/master/images/Bank%20Loan.jpg?token=AI3BUGKRYIEHTQXDHE7CLES6GJRXW "bank")  |  Bank Loan Processing |
+| Car Price prediction  | [![car](https://raw.githubusercontent.com/aniacharya/MachineLearning/master/images/Car%20Price.png?token=AI3BUGMGJ7DX7IZ5SH7AN5C6GJRZ6 "car")](https://raw.githubusercontent.com/aniacharya/MachineLearning/master/images/Car%20Price.png?token=AI3BUGMGJ7DX7IZ5SH7AN5C6GJRZ6 "car")  |
+| [![house](https://raw.githubusercontent.com/aniacharya/MachineLearning/master/images/House%20Price.jpg?token=AI3BUGLLDJAHUXNIABQHYQ26GJR5C "house")](https://raw.githubusercontent.com/aniacharya/MachineLearning/master/images/House%20Price.jpg?token=AI3BUGLLDJAHUXNIABQHYQ26GJR5C "house")  | House Price Prediction  |
+|Candy Type Prediction   | [![candy](https://raw.githubusercontent.com/aniacharya/MachineLearning/master/images/candy.jpg?token=AI3BUGNIMD4AWUE2BILCXEC6GJSAW "candy")](https://raw.githubusercontent.com/aniacharya/MachineLearning/master/images/candy.jpg?token=AI3BUGNIMD4AWUE2BILCXEC6GJSAW "candy")  |
+| [![Avocado](https://raw.githubusercontent.com/aniacharya/MachineLearning/master/images/Avocado.jpg?token=AI3BUGIJY6JT2LNEWC2UHIS6GJSCY "Avocado")](https://raw.githubusercontent.com/aniacharya/MachineLearning/master/images/Avocado.jpg?token=AI3BUGIJY6JT2LNEWC2UHIS6GJSCY "Avocado")  | Avocado Type Prediction   |
+|Credit Card User Segmentation   | [![CC-seg](https://raw.githubusercontent.com/aniacharya/MachineLearning/master/images/Credit%20Card%20segmentation.jpg?token=AI3BUGLE65RANAELIR5FHMS6GJSF4 "CC-seg")](https://raw.githubusercontent.com/aniacharya/MachineLearning/master/images/Credit%20Card%20segmentation.jpg?token=AI3BUGLE65RANAELIR5FHMS6GJSF4 "CC-seg")  |
+|[![CC-fraud](https://raw.githubusercontent.com/aniacharya/MachineLearning/master/images/Credit%20card%20fraud.jpg?token=AI3BUGNE5P25X2NE3FTRGD26GJSJI "CC-fraud")](https://raw.githubusercontent.com/aniacharya/MachineLearning/master/images/Credit%20card%20fraud.jpg?token=AI3BUGNE5P25X2NE3FTRGD26GJSJI "CC-fraud")   | Credit Card Fraud detection  |
+|HR Attrition Analysis   | [![HR](https://raw.githubusercontent.com/aniacharya/MachineLearning/master/images/HR%20Attrition.jpg?token=AI3BUGIQ7MRCJ4W6DSYD7S26GJSMI "HR")](https://raw.githubusercontent.com/aniacharya/MachineLearning/master/images/HR%20Attrition.jpg?token=AI3BUGIQ7MRCJ4W6DSYD7S26GJSMI "HR")  |
+| [![Online](https://raw.githubusercontent.com/aniacharya/MachineLearning/master/images/Online%20Retail.jpg?token=AI3BUGN5THXGWQ5AH5COWLS6GJSOU "Online")](https://raw.githubusercontent.com/aniacharya/MachineLearning/master/images/Online%20Retail.jpg?token=AI3BUGN5THXGWQ5AH5COWLS6GJSOU "Online")  | Online Retail  |
