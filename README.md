@@ -34,11 +34,12 @@ This repository is about different Machine Learning algorithm approaches as per 
 
 
 
+
 | [Exploratory Data Analysis](https://github.com/aniacharya/MachineLearning/tree/master/Exploratory%20Data%20Analysis "Exploratory Data Analysis")  |  [![EDA](https://raw.githubusercontent.com/aniacharya/MachineLearning/master/images/EDA.png?token=AI3BUGKD4A6D4B4MZQBKNSK6GJ472 "EDA")](https://raw.githubusercontent.com/aniacharya/MachineLearning/master/images/EDA.png?token=AI3BUGKD4A6D4B4MZQBKNSK6GJ472 "EDA") |
 | :------------: | :------------: |
 | [![](https://raw.githubusercontent.com/aniacharya/MachineLearning/master/images/Spam.jpg?token=AI3BUGPGFQSJC2QHWZUWU526GJ6B6)](https://raw.githubusercontent.com/aniacharya/MachineLearning/master/images/Spam.jpg?token=AI3BUGPGFQSJC2QHWZUWU526GJ6B6)  | [Spam Detection](https://github.com/aniacharya/MachineLearning/tree/master/Spam%20Detection%20Unsing%20Multiple%20ML%20Algorithms "Spam Detection")  |
 | [Gender Voice Recognition](https://github.com/aniacharya/MachineLearning/tree/master/Gender%20Voice%20Recognition "Gender Voice Recognition")  |  [![](https://raw.githubusercontent.com/aniacharya/MachineLearning/master/images/Gender%20Voice%20Recog.jpg?token=AI3BUGJOXBDAN5URUJYPPIK6GJ6QA)](https://raw.githubusercontent.com/aniacharya/MachineLearning/master/images/Gender%20Voice%20Recog.jpg?token=AI3BUGJOXBDAN5URUJYPPIK6GJ6QA) |
-|   | [Bank Loan Processing](https://github.com/aniacharya/MachineLearning/tree/master/Bank%20Loan%20Processing "Bank Loan Processing")  |
+| [![](https://raw.githubusercontent.com/aniacharya/MachineLearning/master/images/Bank%20Loan.jpg?token=AI3BUGNHWXAMXQPGLARILOS6GJ6XC)](https://raw.githubusercontent.com/aniacharya/MachineLearning/master/images/Bank%20Loan.jpg?token=AI3BUGNHWXAMXQPGLARILOS6GJ6XC)  | [Bank Loan Processing](https://github.com/aniacharya/MachineLearning/tree/master/Bank%20Loan%20Processing "Bank Loan Processing")  |
 | [Car Price prediction](https://github.com/aniacharya/MachineLearning/tree/master/Car%20Price%20prediction "Car Price prediction")  |   |
 |   | [House Price Prediction](https://github.com/aniacharya/MachineLearning/tree/master/House%20Price%20Prediction%20Multiple%20ML%20Algorithms "House Price Prediction")  |
 | [Candy Type Prediction](https://github.com/aniacharya/MachineLearning/tree/master/Candy%20Type%20Prediction "Candy Type Prediction")  |   |
