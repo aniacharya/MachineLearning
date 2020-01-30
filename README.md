@@ -31,4 +31,3 @@ This repository is about different Machine Learning algorithm approaches as per 
 
 ------------
 
-| Exploratory Data Analysis  |[![](images/EDA.png)](images/EDA.png)   |
