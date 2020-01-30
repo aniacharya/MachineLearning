@@ -30,16 +30,19 @@ This repository is about different Machine Learning algorithm approaches as per 
 - HR Attrition Analysis
 - Online Retail
 ------------
-| Exploratory Data Analysis  |[![](images/EDA.png)](images/EDA.png)   |
-| [![](images/Spam.jpg)](images/Spam.jpg)  | Spam Detection Unsing Various ML Algorithms  |
+
+
+| Exploratory Data Analysis  |[![](images/EDA.png)](images/EDA.png)|
+| [![](images/Spam.jpg)](images/Spam.jpg)  | Spam Detection |
 | Gender Voice Recognition  | [![](images/Gender Voice Recog.jpg)](images/Gender Voice Recog.jpg)  |
 | [![](images/Bank Loan.jpg)](images/Bank Loan.jpg)  | Bank Loan Processing  |
 | Car Price prediction   | [![](images/Car Price.png)](images/Car Price.png)  |
-|[![](images/House Price.jpg)](images/House Price.jpg)   | House Price Prediction using Various ML Algorithms  |
+|[![](images/House Price.jpg)](images/House Price.jpg)   | House Price |
 | Candy Type Prediction  | [![](images/candy.jpg)](images/candy.jpg)  |
 | [![](images/Avocado.jpg)](images/Avocado.jpg)  | Avocado Type Prediction  |
 | Credit Card User Segmentation  | [![](images/Credit Card segmentation.jpg)](images/Credit Card segmentation.jpg)  |
-| [![](images/Credit card fraud.jpg)](images/Credit card fraud.jpg)  | Credit Card Fraud detection using various ML Algorithms  |
-| HR Attrition Analysis  | [![](images/HR Attrition.jpg)](images/HR Attrition.jpg)  |
+| [![](images/Credit card fraud.jpg)](images/Credit card fraud.jpg)| Credit Card Fraud detection|
+| HR Attrition Analysis| [![](images/HR Attrition.jpg)](images/HR Attrition.jpg)|
 | [![](images/Online Retail.jpg)](images/Online Retail.jpg)  | Online Retail |
+
 
