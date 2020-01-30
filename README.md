@@ -33,6 +33,10 @@ This repository is about different Machine Learning algorithm approaches as per 
 
 
 
+
+
+
+
 | [Exploratory Data Analysis](https://github.com/aniacharya/MachineLearning/tree/master/Exploratory%20Data%20Analysis "Exploratory Data Analysis")  |  [![EDA](https://raw.githubusercontent.com/aniacharya/MachineLearning/master/images/EDA.png?token=AI3BUGKD4A6D4B4MZQBKNSK6GJ472 "EDA")](https://raw.githubusercontent.com/aniacharya/MachineLearning/master/images/EDA.png?token=AI3BUGKD4A6D4B4MZQBKNSK6GJ472 "EDA") |
 | :------------: | :------------: |
 | [![](https://raw.githubusercontent.com/aniacharya/MachineLearning/master/images/Spam.jpg?token=AI3BUGPGFQSJC2QHWZUWU526GJ6B6)](https://raw.githubusercontent.com/aniacharya/MachineLearning/master/images/Spam.jpg?token=AI3BUGPGFQSJC2QHWZUWU526GJ6B6)  | [Spam Detection](https://github.com/aniacharya/MachineLearning/tree/master/Spam%20Detection%20Unsing%20Multiple%20ML%20Algorithms "Spam Detection")  |
@@ -46,4 +50,3 @@ This repository is about different Machine Learning algorithm approaches as per 
 |   | [Credit Card Fraud detection](https://github.com/aniacharya/MachineLearning/tree/master/Credit%20Card%20Fraud%20detection%20Multiple%20ML%20Algorithms "Credit Card Fraud detection")  |
 | [HR Attrition Analysis](https://github.com/aniacharya/MachineLearning/tree/master/HR%20Attrition%20Analysis "HR Attrition Analysis")  |   |
 |   | [Online Retail](https://github.com/aniacharya/MachineLearning/tree/master/Online%20Retail "Online Retail") |
-
