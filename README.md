@@ -33,11 +33,9 @@ This repository is about different Machine Learning algorithm approaches as per 
 
 
 
-
-
-| [Exploratory Data Analysis](https://github.com/aniacharya/MachineLearning/tree/master/Exploratory%20Data%20Analysis "Exploratory Data Analysis")  |  [![EDA](https://raw.githubusercontent.com/aniacharya/MachineLearning/master/images/EDA.png?token=AI3BUGKD4A6D4B4MZQBKNSK6GJ472 "EDA")](https://raw.githubusercontent.com/aniacharya/MachineLearning/master/images/EDA.png?token=AI3BUGKD4A6D4B4MZQBKNSK6GJ472 "EDA") |
+| [Exploratory Data Analysis](https://github.com/aniacharya/MachineLearning/tree/master/Exploratory%20Data%20Analysis "Exploratory Data Analysis")  |  [![EDA](https://raw.githubusercontent.com/aniacharya/MachineLearning/master/images/EDA.png?token=AI3BUGLFDFHXYNPRS6SZHVC6GJ736 "EDA")](https://raw.githubusercontent.com/aniacharya/MachineLearning/master/images/EDA.png?token=AI3BUGLFDFHXYNPRS6SZHVC6GJ736 "EDA") |
 | :------------: | :------------: |
-| [![](https://raw.githubusercontent.com/aniacharya/MachineLearning/master/images/Spam.jpg?token=AI3BUGPGFQSJC2QHWZUWU526GJ6B6)](https://raw.githubusercontent.com/aniacharya/MachineLearning/master/images/Spam.jpg?token=AI3BUGPGFQSJC2QHWZUWU526GJ6B6)  | [Spam Detection](https://github.com/aniacharya/MachineLearning/tree/master/Spam%20Detection%20Unsing%20Multiple%20ML%20Algorithms "Spam Detection")  |
+| [![Spam](https://raw.githubusercontent.com/aniacharya/MachineLearning/master/images/Spam.jpg?token=AI3BUGNZ35VXG2WYEFRAQAC6GJ7WA "Spam")](https://raw.githubusercontent.com/aniacharya/MachineLearning/master/images/Spam.jpg?token=AI3BUGNZ35VXG2WYEFRAQAC6GJ7WA "Spam")  | [Spam Detection](https://github.com/aniacharya/MachineLearning/tree/master/Spam%20Detection%20Unsing%20Multiple%20ML%20Algorithms "Spam Detection")  |
 | [Gender Voice Recognition](https://github.com/aniacharya/MachineLearning/tree/master/Gender%20Voice%20Recognition "Gender Voice Recognition")  |  [![](https://raw.githubusercontent.com/aniacharya/MachineLearning/master/images/Gender%20Voice%20Recog.jpg?token=AI3BUGJOXBDAN5URUJYPPIK6GJ6QA)](https://raw.githubusercontent.com/aniacharya/MachineLearning/master/images/Gender%20Voice%20Recog.jpg?token=AI3BUGJOXBDAN5URUJYPPIK6GJ6QA) |
 | [![](https://raw.githubusercontent.com/aniacharya/MachineLearning/master/images/Bank%20Loan.jpg?token=AI3BUGNHWXAMXQPGLARILOS6GJ6XC)](https://raw.githubusercontent.com/aniacharya/MachineLearning/master/images/Bank%20Loan.jpg?token=AI3BUGNHWXAMXQPGLARILOS6GJ6XC)  | [Bank Loan Processing](https://github.com/aniacharya/MachineLearning/tree/master/Bank%20Loan%20Processing "Bank Loan Processing")  |
 | [Car Price prediction](https://github.com/aniacharya/MachineLearning/tree/master/Car%20Price%20prediction "Car Price prediction")  |   |
@@ -48,3 +46,5 @@ This repository is about different Machine Learning algorithm approaches as per 
 |   | [Credit Card Fraud detection](https://github.com/aniacharya/MachineLearning/tree/master/Credit%20Card%20Fraud%20detection%20Multiple%20ML%20Algorithms "Credit Card Fraud detection")  |
 | [HR Attrition Analysis](https://github.com/aniacharya/MachineLearning/tree/master/HR%20Attrition%20Analysis "HR Attrition Analysis")  |   |
 |   | [Online Retail](https://github.com/aniacharya/MachineLearning/tree/master/Online%20Retail "Online Retail") |
+
+
