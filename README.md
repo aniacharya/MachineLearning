@@ -33,7 +33,7 @@ This repository is about different Machine Learning algorithm approaches as per 
 
 
 
-| [Exploratory Data Analysis](https://github.com/aniacharya/MachineLearning/tree/master/Exploratory%20Data%20Analysis "Exploratory Data Analysis")  |   |
+| [Exploratory Data Analysis](https://github.com/aniacharya/MachineLearning/tree/master/Exploratory%20Data%20Analysis "Exploratory Data Analysis")  |  [![EDA](https://raw.githubusercontent.com/aniacharya/MachineLearning/master/images/EDA.png?token=AI3BUGKD4A6D4B4MZQBKNSK6GJ472 "EDA")](https://raw.githubusercontent.com/aniacharya/MachineLearning/master/images/EDA.png?token=AI3BUGKD4A6D4B4MZQBKNSK6GJ472 "EDA") |
 | :------------: | :------------: |
 |   | [Spam Detection](https://github.com/aniacharya/MachineLearning/tree/master/Spam%20Detection%20Unsing%20Multiple%20ML%20Algorithms "Spam Detection")  |
 | [Gender Voice Recognition](https://github.com/aniacharya/MachineLearning/tree/master/Gender%20Voice%20Recognition "Gender Voice Recognition")  |   |
