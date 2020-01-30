@@ -31,16 +31,18 @@ This repository is about different Machine Learning algorithm approaches as per 
 - Online Retail
 ------------
 
-| Exploratory Data Analysis  |   |
+
+
+| [Exploratory Data Analysis](https://github.com/aniacharya/MachineLearning/tree/master/Exploratory%20Data%20Analysis "Exploratory Data Analysis")  |   |
 | :------------: | :------------: |
-|   | Spam Detection  |
-| Gender Voice Recognition  |   |
-|   | Bank Loan Processing  |
-| Car Price prediction  |   |
-|   | House Price Prediction  |
-| Candy Type Prediction  |   |
-|   | Avocado Type Prediction  |
-| Credit Card User Segmentation  |   |
-|   | Credit Card Fraud detection  |
-| HR Attrition Analysis  |   |
-|   | Online Retail |
+|   | [Spam Detection](https://github.com/aniacharya/MachineLearning/tree/master/Spam%20Detection%20Unsing%20Multiple%20ML%20Algorithms "Spam Detection")  |
+| [Gender Voice Recognition](https://github.com/aniacharya/MachineLearning/tree/master/Gender%20Voice%20Recognition "Gender Voice Recognition")  |   |
+|   | [Bank Loan Processing](https://github.com/aniacharya/MachineLearning/tree/master/Bank%20Loan%20Processing "Bank Loan Processing")  |
+| [Car Price prediction](https://github.com/aniacharya/MachineLearning/tree/master/Car%20Price%20prediction "Car Price prediction")  |   |
+|   | [House Price Prediction](https://github.com/aniacharya/MachineLearning/tree/master/House%20Price%20Prediction%20Multiple%20ML%20Algorithms "House Price Prediction")  |
+| [Candy Type Prediction](https://github.com/aniacharya/MachineLearning/tree/master/Candy%20Type%20Prediction "Candy Type Prediction")  |   |
+|   | [Avocado Type Prediction](https://github.com/aniacharya/MachineLearning/tree/master/Avocado%20Type%20Prediction "Avocado Type Prediction")  |
+| [Credit Card User Segmentation](https://github.com/aniacharya/MachineLearning/tree/master/Credit%20Card%20User%20Segmentation "Credit Card User Segmentation")  |   |
+|   | [Credit Card Fraud detection](https://github.com/aniacharya/MachineLearning/tree/master/Credit%20Card%20Fraud%20detection%20Multiple%20ML%20Algorithms "Credit Card Fraud detection")  |
+| [HR Attrition Analysis](https://github.com/aniacharya/MachineLearning/tree/master/HR%20Attrition%20Analysis "HR Attrition Analysis")  |   |
+|   | [Online Retail](https://github.com/aniacharya/MachineLearning/tree/master/Online%20Retail "Online Retail") |
