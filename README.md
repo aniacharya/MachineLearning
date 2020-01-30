@@ -30,3 +30,5 @@ This repository is about different Machine Learning algorithm approaches as per 
 - HR Attrition Analysis
 
 ------------
+
+| Exploratory Data Analysis  |[![](images/EDA.png)](images/EDA.png)   |
