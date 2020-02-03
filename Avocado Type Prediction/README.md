@@ -3,7 +3,40 @@
 
 [![](https://github.com/aniacharya/MachineLearning/blob/master/images/Avocado.jpg)](https://github.com/aniacharya/MachineLearning/blob/master/images/Avocado.jpg)
 
-This project primarily focuses on predictin the type of avocado as either conventional or organic, based on several attributes such as average price, total volume, total bags of yield, small bags, large bags, extra large bags, year of yield, sales of three different varities such as PLU4046, PLU4225, PLU4770 and the region in which it is grown. 
+Did you know that fresh avocados come in a variety of sizes, types and varietals?
+
+Hass avocados are the most commonly known varietal type of avocado. The Hass variety accounts for the majority of avocados sold in the U.S. It’s the most well-known variety but not the only varietal. There are hundreds of known varietals of fresh avocados from the Anaheim variety to the Zutano.
+
+Each varietal type has its own distinct characteristics in the following areas.
+- Taste (nutty to light)
+- Flesh texture (buttery to watery)
+- Blossom type (A or B)
+- Seed size
+- Skin/peel color when ripe (green to purplish black)
+- Fruit shape (round to obovate)
+- Peel characteristics (thick and bumpy to thin and smooth)
+
+The most commonly sold sizes of fresh Hass avocado can be identified by their Product Lookup code or PLU or sticker.
+- Small/Medium Hass Avocado (~3-5oz avocado) - PLU4046.
+- Large Hass Avocado (~8-10oz avocado) - PLU4225.
+- Extra Large Hass Avocado (~10-15oz avocado) - PLU4770.
+- Hass Avocado Bags - Size varies.
+
+## Data overview
+
+Here in the dataset, each row represents a avocado, each column contains avocado's attributes described in column Metadata.
+
+##### The Data set includes information about:
+- Type of avocado - either conventional or organic.
+- Average price.
+- Total volume.
+- Total bags of yield.
+- Small bags, large bags, extra large bags.
+- Year of yield.
+- Sales of three different varities such as PLU4046, PLU4225, PLU4770.
+- Region in which it is grown.
+
+
 
 Here, the alogorithms used to classify the type of avocado are Logestic regression, Decission trees and Random Forest.
 
