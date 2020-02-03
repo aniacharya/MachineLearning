@@ -46,15 +46,15 @@ Second part of the project involves the price prediction using linear regression
 ## Insights
 [![](https://github.com/aniacharya/MachineLearning/blob/master/images/insights.png)](https://github.com/aniacharya/MachineLearning/blob/master/images/insights.png)
 
-Different algorithms have predicted based on the various criterion and we are see the comparision with respect to the Accuracy score:
-
 ##### Acocado Type Prediction:
+Different algorithms have predicted based on the various criterion and the comparision with respect to the Accuracy score are:
+
 1. Logestic regression give a result of 0.9241095890410959 
 2. Decission tree give a result of 0.9956164383561644 
 3. Random forest give a result of 0.9983561643835617 
 
 ##### Average Price Prediction:
-Linear regression results are:
+Based on our criterion, Linear regression results are:
 1. r_squared - 0.5551459309622133
 2. Adjusted_r_squared - 0.5532177709106564
 3. Mean absolute error for test set - 0.19960875675726328
