@@ -23,6 +23,7 @@ The most commonly sold sizes of fresh Hass avocado can be identified by their Pr
 - Hass Avocado Bags - Size varies.
 
 ## Data overview
+[![](https://github.com/aniacharya/MachineLearning/blob/master/images/data-vs-information.jpg)](https://github.com/aniacharya/MachineLearning/blob/master/images/data-vs-information.jpg)
 
 Here in the dataset, each row represents a avocado, each column contains avocado's attributes described in column Metadata.
 
@@ -37,7 +38,23 @@ Here in the dataset, each row represents a avocado, each column contains avocado
 - Region in which it is grown.
 
 
-
+## Model Selection
 Here, the alogorithms used to classify the type of avocado are Logestic regression, Decission trees and Random Forest.
 
 Second part of the project involves the price prediction using linear regression.
+
+## Insights
+[![](https://github.com/aniacharya/MachineLearning/blob/master/images/insights.png)](https://github.com/aniacharya/MachineLearning/blob/master/images/insights.png)
+
+Different algorithms have predicted based on the various criterion and we are see the comparision with respect to the Accuracy score:
+
+##### Acocado Type Prediction:
+1. Logestic regression give a result of 0.9241095890410959 
+2. Decission tree give a result of 0.9956164383561644 
+3. Random forest give a result of 0.9983561643835617 
+
+##### Average Price Prediction:
+Linear regression results are:
+1. r_squared - 0.5551459309622133
+2. Adjusted_r_squared - 0.5532177709106564
+3. Mean absolute error for test set - 0.19960875675726328
