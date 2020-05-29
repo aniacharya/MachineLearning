@@ -46,3 +46,8 @@ This repository is about different Machine Learning algorithm approaches as per 
 |[![](https://github.com/aniacharya/MachineLearning/blob/master/images/Credit%20card%20fraud.jpg)](https://github.com/aniacharya/MachineLearning/blob/master/images/Credit%20card%20fraud.jpg)  | [Credit Card Fraud detection](https://github.com/aniacharya/MachineLearning/tree/master/Credit%20Card%20Fraud%20detection%20Multiple%20ML%20Algorithms "Credit Card Fraud detection")  |
 | [HR Attrition Analysis](https://github.com/aniacharya/MachineLearning/tree/master/HR%20Attrition%20Analysis "HR Attrition Analysis")  | [![](https://github.com/aniacharya/MachineLearning/blob/master/images/HR%20Attrition.jpg)](https://github.com/aniacharya/MachineLearning/blob/master/images/HR%20Attrition.jpg) |
 | [![](https://github.com/aniacharya/MachineLearning/blob/master/images/Online%20Retail.jpg)](https://github.com/aniacharya/MachineLearning/blob/master/images/Online%20Retail.jpg)  | [Online Retail](https://github.com/aniacharya/MachineLearning/tree/master/Online%20Retail "Online Retail") |
+
+
+
+
+[![AIbootcamp](https://github.com/aniacharya/MachineLearning/blob/master/images/AIbootcamp.png "AIbootcamp")](https://github.com/aniacharya/MachineLearning/blob/master/images/AIbootcamp.png "AIbootcamp")
